@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/pranav/Documents/Projects/cpp/pid'
+relocations:     []
+...
